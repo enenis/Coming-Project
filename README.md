@@ -7,6 +7,7 @@ Hello, A section of our hogwarts home application that we plan to publish in 202
 
 <img src="https://user-images.githubusercontent.com/99321522/213786882-f1adeb0e-5687-4e21-a7aa-1b23c1d825e7.jpeg" data-canonical-src="" width="200" height="400" />
 
+<hr>
 Current progress:
 
 
